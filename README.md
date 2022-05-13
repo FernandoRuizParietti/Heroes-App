@@ -17,6 +17,7 @@ Si el back se ejecuta correctamente, en la terminal se debe observar lo siguient
 
   Resources
   http://localhost:3000/usuarios
+  
   http://localhost:3000/heroes
 
   Home
