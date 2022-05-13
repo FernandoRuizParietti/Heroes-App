@@ -10,6 +10,23 @@ Run `ng serve -o` for a dev server. Navigate to `http://localhost:4200/`. The ap
 
 El Back end esta simulado en un archivo db.json, el mismo debe ser corrido desde una nueva terminal, parandose en el directorio "05-Heroes-Server" y luego ejecutando el comando: --watch db.json
 
+Si el back se ejecuta correctamente, en la terminal se debe observar lo siguiente:
+
+  Loading db.json
+  Done
+
+  Resources
+  http://localhost:3000/usuarios
+  http://localhost:3000/heroes
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+  
+  No cancelar la ejecucion del comando, la misma debe estar corriendo para poder usar la App.
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
