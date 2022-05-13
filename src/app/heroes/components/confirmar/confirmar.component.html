@@ -1,0 +1,21 @@
+<h1>Esta usted seguro?</h1>
+<hr>
+<p>El heroe {{data.superhero}} se borrará permanentemente
+    <br>
+    Desea continuar?
+</p>
+
+<div>
+    <button mat-button
+            (click)="borrar()"
+            color="warn"
+            >
+            Si, borrar!
+    </button>
+    <button mat-button
+            (click)="cerrar()"
+            >
+            Cancelar
+    </button>
+</div>
+

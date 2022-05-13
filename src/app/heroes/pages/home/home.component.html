@@ -38,7 +38,13 @@
            <mat-icon>menu</mat-icon>
         </button>
         <span class="spacer"></span>
-        <button mat-button>Logut</button>
+
+        <span>{{auth.usuario}}</span>
+
+        <button mat-button
+                (click)="logout()">
+                Logut
+        </button>
     </mat-toolbar>
 
 
