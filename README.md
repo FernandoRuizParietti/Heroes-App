@@ -8,7 +8,7 @@ Run `ng serve -o` for a dev server. Navigate to `http://localhost:4200/`. The ap
 
 ## Como correr el Backend:
 
-El Back end esta simulado en un archibo db.json, el mismo debe ser corrido desde una nueva terminal, parandose en el directorio "05-Heroes-Server" y luego ejecutando el comando: --watch db.json
+El Back end esta simulado en un archivo db.json, el mismo debe ser corrido desde una nueva terminal, parandose en el directorio "05-Heroes-Server" y luego ejecutando el comando: --watch db.json
 
 ## Code scaffolding
 
